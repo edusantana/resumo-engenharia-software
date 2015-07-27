@@ -9,14 +9,6 @@
 
 O [vídeo](https://youtu.be/ZTy8iRLH7bE) apresentou os seguintes conteúdos:
 
-- Preço de software
-- Desenvolvimento dirigido a planos
-- Programação de Projeto
-- Planejamento Ágil
-- Técnicas de Estimativa
-
-O vídeo apresentou os seguintes pontos:
-
 * os fundamentos sobre os custos de software e a razão
 do que porque o preço do software não depende apenas do custo
 de desenvolvimento.
@@ -30,9 +22,14 @@ de desenvolvimento.
 * como o modelo COCOMO II é utilizado no algorítmo de estimativa de custo.
 
 
-Videos:
+## Caitulo 22: Gerenciamento de Projeto:
 
-- <https://www.youtube.com/watch?v=j__cqZZukjo>
+O [vídeo](https://www.youtube.com/watch?v=j__cqZZukjo) apresentou os seguintes conteúdos:
+
+- as principais tarefas dos gerentes de projeto de softwares
+- gerência de riscos e alguns riscos que podem acontecer nos projetos de softwares
+- fatores que influenciam a motivação pessoal
+- Os principais problemas que influenciam no trabalho em equipe. 
 
 # Eduardo Santana
 
