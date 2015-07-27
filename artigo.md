@@ -6,18 +6,21 @@
 # José Gleydson O. Pereira
 
 Videos:
+
 - https://youtu.be/ZTy8iRLH7bE	
 - https://www.youtube.com/watch?v=j__cqZZukjo
 
 # Eduardo Santana
 
 Videos:
+
 - https://youtu.be/R3dHpV5Mjho	
 - https://youtu.be/lYRt9Z27BHg
 
 # Alan Bonifacio de Pontes
 
 Vídeos:
+
 - https://www.dropbox.com/s/5nidqg3tfq6hxl2/sommerville_cap8.avi?dl=0	
 - https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0
 
