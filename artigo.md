@@ -21,6 +21,13 @@ O vídeo apresentou os seguintes pontos:
 do que porque o preço do software não depende apenas do custo
 de desenvolvimento.
 
+* as seções que devem ser incluídas no plano do projeto que é criado no desenvolvimento baseado em planos
+
+* o que está envolvido no planejamento do projeto e a utilização de gráficos em barras para apresentar o cronograma do projeto.
+
+* introdução ao jogo de planejamento, que é utilizado nos métodos ágeis
+
+* como o modelo COCOMO II é utilizado no algorítmo de estimativa de custo.
 
 
 Videos:
