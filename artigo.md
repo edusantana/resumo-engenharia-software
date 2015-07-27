@@ -7,7 +7,17 @@
 
 ## Capítulo 23: Planejamento de Projeto
 
+Conteúdos:
 
+- Preço de software
+- Desenvolvimento dirigido a planos
+- Programação de Projeto
+- Planejamento Ágil
+- Técnicas de Estimativa
+
+O vídeo apresentou os fundamentos sobre os custos de software e a razão
+do que porque o preço do software não depende apenas do custo
+de desenvolvimento.
 
 Videos:
 
