@@ -43,7 +43,17 @@ Videos:
 Vídeos:
 
 - https://www.dropbox.com/s/5nidqg3tfq6hxl2/sommerville_cap8.avi?dl=0	
-- https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0
+
+
+## Capítulo 9
+
+O [vídeo](https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0) apresentou os seguintes conteúdos:
+
+- Para manter os softwares úteis, é necessário realizar mudanças neles
+- As mudanças devem ser integradas através de um modelo de espiral
+- O processo de evolução dos softwares
+- Os tipos de manutenção do software
+- Os fatores que influenciam nos custos de manutenção
 
 # Raphael Bezerra Xavier
 - https://www.youtube.com/watch?v=I8RX80VhvE8
