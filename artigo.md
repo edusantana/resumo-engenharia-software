@@ -7,8 +7,8 @@
 
 Videos:
 
-- https://youtu.be/ZTy8iRLH7bE	
-- https://www.youtube.com/watch?v=j__cqZZukjo
+- <https://youtu.be/ZTy8iRLH7bE>
+- <https://www.youtube.com/watch?v=j__cqZZukjo>
 
 # Eduardo Santana
 
