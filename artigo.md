@@ -81,8 +81,18 @@ O [vídeo](https://www.youtube.com/watch?v=5W2OpUcVJOc) apresentou os seguintes 
 - Tipos de padrões de arquitetura para sistemas distribuíos
 - Como prover softwares como serviços
 
-# Hálamo G. R. Andrade
-- https://www.youtube.com/watch?v=aoPAr7lIksM
+# Arquitetura orientada a serviços - capítulo 19 (Hálamo G. R. Andrade)
+
+O [vídeo](https://www.youtube.com/watch?v=aoPAr7lIksM) apresentou os seguintes conteúdos:
+
+- Serviços como componentes reutilizáveis
+- Desenvolvimento de software com serviços
+- Noções básicas de serviços web
+- Padrões de serviços
+- Arquitetura orientada a serviço
+- O processo de engenharia para desenvolver os serviços reutilizáveis
+- Como são realizadas as composições de serviços
+- Como as regras de negócio podem ser utilizadas no design de sistemas orientados a serviços
 
 # Yonatha Almeida
 - https://www.youtube.com/watch?v=iW_EPZDgiyk
