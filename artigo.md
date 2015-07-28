@@ -2,7 +2,7 @@
 % Autor
 % 201X
 
-# Caitulo 22: Gerenciamento de Projeto (José Gleydson O. Pereira)
+# Gerenciamento de Projeto - Caitulo 22 (José Gleydson O. Pereira)
 
 O [vídeo](https://www.youtube.com/watch?v=j__cqZZukjo) apresentou os seguintes conteúdos:
 
@@ -11,7 +11,7 @@ O [vídeo](https://www.youtube.com/watch?v=j__cqZZukjo) apresentou os seguintes 
 - fatores que influenciam a motivação pessoal
 - Os principais problemas que influenciam no trabalho em equipe. 
 
-# Capítulo 23: Planejamento de Projeto (José Gleydson O. Pereira)
+# Planejamento de Projeto - Capítulo 23 (José Gleydson O. Pereira)
 
 O [vídeo](https://youtu.be/ZTy8iRLH7bE) apresentou os seguintes conteúdos:
 
@@ -34,7 +34,7 @@ Videos:
 - https://youtu.be/R3dHpV5Mjho	
 - https://youtu.be/lYRt9Z27BHg
 
-# Capítulo 8 - Testes de Software (Alan Bonifacio de Pontes)
+# Testes de Software - Capítulo 8 (Alan Bonifacio de Pontes)
 
 O [vídeo](https://www.dropbox.com/s/5nidqg3tfq6hxl2/sommerville_cap8.avi?dl=0) apresentou os seguintes conteúdos:
 
@@ -45,7 +45,7 @@ O [vídeo](https://www.dropbox.com/s/5nidqg3tfq6hxl2/sommerville_cap8.avi?dl=0) 
 - As técnicas de testes
 - Como realizar testes com os usuários
 
-# Capítulo 9 - Evolução do Software (Alan Bonifacio de Pontes)
+# Evolução do Software - Capítulo 9 (Alan Bonifacio de Pontes)
 
 O [vídeo](https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0) apresentou os seguintes conteúdos:
 
@@ -55,7 +55,7 @@ O [vídeo](https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0) 
 - Os tipos de manutenção do software
 - Os fatores que influenciam nos custos de manutenção
 
-# Capítulo 16 - Reuso de Softwares (Raphael Bezerra Xavier)
+# Reuso de Softwares - Capítulo 16 (Raphael Bezerra Xavier)
 
 O [vídeo](https://www.youtube.com/watch?v=I8RX80VhvE8) apresentou os seguintes conteúdos:
 
@@ -68,7 +68,7 @@ O [vídeo](https://www.youtube.com/watch?v=I8RX80VhvE8) apresentou os seguintes 
 - Linhas de Produto de software
 - Como produzir sistemas através de composição de sistemas
 
-# Capítulo 18 - Software Distribuído (Hálamo G. R. Andrade)
+# Software Distribuído - Capítulo 18 (Hálamo G. R. Andrade)
 
 O [vídeo](https://www.youtube.com/watch?v=5W2OpUcVJOc) apresentou os seguintes conteúdos:
 
@@ -113,10 +113,16 @@ O [video](https://www.youtube.com/watch?v=FtsLPGH5Jw8) apresentou os seguintes c
 - A importância de fases para implementação de mudanças nos softwares
 - Introdução do Processo Unificado (RUP)
 
-# (Glaucio Rocha) 	
+# Desenvolvimento Ágil de Software - Capítulo 3 (Glaucio Rocha) 	
  
 O [video](https://www.youtube.com/watch?v=cOgEpoJP1c4) apresentou os seguintes conteúdos:
 
+- Métodos ágeis
+- O que são os desenvolvimentos ágeis
+- Diferença entre desenvolvimento ágil e dirigido a planos
+- Principais práticas em programação extrema
+- Gerenciamento ágil de projetos
+- Os problemas relacionado à escalabilidade do desenvolvimento ágil
 
 
 # Ighor O. do R. Barros
