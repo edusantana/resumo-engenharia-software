@@ -27,16 +27,12 @@ de desenvolvimento.
 
 * como o modelo COCOMO II é utilizado no algorítmo de estimativa de custo.
 
-
-
 # Eduardo Santana
 
 Videos:
 
 - https://youtu.be/R3dHpV5Mjho	
 - https://youtu.be/lYRt9Z27BHg
-
-# Alan Bonifacio de Pontes
 
 # Capítulo 8 - Testes de Software (Alan Bonifacio de Pontes)
 
@@ -94,8 +90,17 @@ O [vídeo](https://www.youtube.com/watch?v=aoPAr7lIksM) apresentou os seguintes 
 - Como são realizadas as composições de serviços
 - Como as regras de negócio podem ser utilizadas no design de sistemas orientados a serviços
 
-# Yonatha Almeida
-- https://www.youtube.com/watch?v=iW_EPZDgiyk
+# Engenharia de requisitos - capítulo 4 (Yonatha Almeida)
+
+O [https://www.youtube.com/watch?v=iW_EPZDgiyk](https://www.youtube.com/watch?v=aoPAr7lIksM) apresentou os seguintes conteúdos:
+
+- Os conceitos de usuário e requisitos de sistema
+- Porque os requisitos devem ser escritos de formas diferentes
+- A diferença entre requisitos funcionais e não funcionais
+- Como os requisitos podem ser documentados
+- As principais atividades para coletar requisitos
+- Análise e validação dos requisitos
+- A importância do gerenciamento de requisitos
 
 # Glaucio Rocha
 - https://www.youtube.com/watch?v=FtsLPGH5Jw8	
