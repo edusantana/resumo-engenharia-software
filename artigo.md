@@ -172,13 +172,8 @@ O [video](https://www.dropbox.com/s/znwohxm1n50nd18/Apresenta%C3%A7%C3%A3o%20Cap
 O [video](https://www.youtube.com/watch?v=ShAq4vDmSgE) apresentou os seguintes conteúdos:
 
 - Explicação do porquê confiança e proteção são mais importantes do que requisitos funcionais
-- As quatro principais dimensões da confiança: disponibilidade, confiabilidade, segurança, proteção
-
-
-disponibilidade
-
-:  Explicação de disponibilidade
-
+- As quatro principais dimensões da confiança: disponibilidade, confiabilidade, segurança e proteção
+- Como detectar e remover erros quando o sistema está em uso
 
 # Cap X - (Giancarlo Leite Cavalcanti de Andrade)
 
