@@ -175,8 +175,14 @@ O [video](https://www.youtube.com/watch?v=ShAq4vDmSgE) apresentou os seguintes c
 - As quatro principais dimensões da confiança: disponibilidade, confiabilidade, segurança e proteção
 - Como detectar e remover erros quando o sistema está em uso
 
-# Cap X - (Giancarlo Leite Cavalcanti de Andrade)
+# Especificação de Confiança e Proteção - Capítulo 12 - (Giancarlo Leite Cavalcanti de Andrade)
 
 O [video](https://www.youtube.com/watch?v=Jt_qYFFihy4) apresentou os seguintes conteúdos:
 
-- xxx
+- Como uma abordagem baseadas em risco pode ser utilizada para analisar requisitos de segurança, proteção e confiabilidade
+- Árvores de falhas
+- Como derivar requisitos de confiança através das árvores de falhas
+- Métricas para especificação de confiança
+- Diferentes tipos de requisitos de confiança
+- Vantagens e desvantagens de especificação formal dos sistemas
+
