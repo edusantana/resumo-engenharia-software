@@ -1,4 +1,4 @@
-% Formatafacil: produza artigos com as normas da ABNT
+% Engenharia de Software: resumo dos pontos chaves dos vídeos apresentados
 % Autor
 % 201X
 
@@ -117,17 +117,30 @@ O [video](https://www.youtube.com/watch?v=FtsLPGH5Jw8) apresentou os seguintes c
  
 O [video](https://www.youtube.com/watch?v=cOgEpoJP1c4) apresentou os seguintes conteúdos:
 
-- Métodos ágeis
-- O que são os desenvolvimentos ágeis
+- O que são os desenvolvimentos ágeis, e o manifesto
 - Diferença entre desenvolvimento ágil e dirigido a planos
 - Principais práticas em programação extrema
 - Gerenciamento ágil de projetos
 - Os problemas relacionado à escalabilidade do desenvolvimento ágil
 
 
-# Ighor O. do R. Barros
-- https://www.youtube.com/watch?v=SLxGHELbHDw	
-- https://www.youtube.com/watch?v=wLJ5IKj2hu4
+# Engenharia de Segurança - Capítulo 14 (Ighor O. do R. Barros)
+
+O [video](https://www.youtube.com/watch?v=SLxGHELbHDw) apresentou os seguintes conteúdos:
+
+- Diferenças entre segurança de uma aplicação e segurança de infraestrutura
+- Problemas de segurança que afetam o design do sistema
+- Ciclo de vida verificação de riscos
+- Verificação de riscos operacionais
+- Guia de design para desenvolvimento de softwares seguros
+- Disponibilidade dos sistemas
+
+
+# (Ighor O. do R. Barros) 	
+ 
+O [video](https://www.youtube.com/watch?v=wLJ5IKj2hu4) apresentou os seguintes conteúdos:
+
+
 
 # Julianne M. Cavalcanti de Moraes 
 - https://www.dropbox.com/s/smuy1g0qrlrcifh/Apresenta%C3%A7%C3%A3o%20Cap%C3%ADtulo%206%20-%20Arquitetura%20de%20Software.wmv?dl=0	
