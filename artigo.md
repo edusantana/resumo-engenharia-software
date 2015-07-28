@@ -146,9 +146,21 @@ O [video](https://www.youtube.com/watch?v=wLJ5IKj2hu4) apresentou os seguintes c
 - Dificuldades de se testar softwares com aspectos
 
 
-# Julianne M. Cavalcanti de Moraes 
-- https://www.dropbox.com/s/smuy1g0qrlrcifh/Apresenta%C3%A7%C3%A3o%20Cap%C3%ADtulo%206%20-%20Arquitetura%20de%20Software.wmv?dl=0	
-- https://www.dropbox.com/s/znwohxm1n50nd18/Apresenta%C3%A7%C3%A3o%20Cap%C3%ADtulo%207%20-%20Projeto%20e%20Implementa%C3%A7%C3%A3o%20de%20Software.mp4?dl=0
+# Arquitetura de Software - Capítulo 6 (Julianne M. Cavalcanti de Moraes)
+
+O [video](https://www.dropbox.com/s/smuy1g0qrlrcifh/Apresenta%C3%A7%C3%A3o%20Cap%C3%ADtulo%206%20-%20Arquitetura%20de%20Software.wmv?dl=0) apresentou os seguintes conteúdos:
+
+- Importância do design da arquitetura do sistema
+- As principais decisões que devem ser tomadas durante o processo de design da arquitetura do sistema
+- O que são padrões arquiteturais
+- Os principais padrões arquiteturais
+
+# Projeto e Implementação - Capítulo 7 (Julianne M. Cavalcanti de Moraes)
+
+O [video](https://www.dropbox.com/s/znwohxm1n50nd18/Apresenta%C3%A7%C3%A3o%20Cap%C3%ADtulo%207%20-%20Projeto%20e%20Implementa%C3%A7%C3%A3o%20de%20Software.mp4?dl=0) apresentou os seguintes conteúdos:
+
+
+
 
 # Giancarlo Leite Cavalcanti de Andrade
 - https://www.youtube.com/watch?v=ShAq4vDmSgE	
