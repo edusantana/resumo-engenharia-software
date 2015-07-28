@@ -167,6 +167,17 @@ O [video](https://www.dropbox.com/s/znwohxm1n50nd18/Apresenta%C3%A7%C3%A3o%20Cap
 - Desenvolvimento de softwares livres
 
 
-# Giancarlo Leite Cavalcanti de Andrade
-- https://www.youtube.com/watch?v=ShAq4vDmSgE	
-- https://www.youtube.com/watch?v=Jt_qYFFihy4
+# Confiança e Proteção - Capítulo 11 (Giancarlo Leite Cavalcanti de Andrade)
+
+O [video](https://www.youtube.com/watch?v=ShAq4vDmSgE) apresentou os seguintes conteúdos:
+
+- Explicação do porquê confiança e proteção são mais importantes do que requisitos funcionais
+- As quatro principais dimensões da confiança: disponibilidade, confiabilidade, segurança, proteção
+
+Disponibilidade
+
+: Explicação da disponibilidade
+
+# (Giancarlo Leite Cavalcanti de Andrade)
+
+O [video](https://www.youtube.com/watch?v=Jt_qYFFihy4) apresentou os seguintes conteúdos:
