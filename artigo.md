@@ -174,8 +174,6 @@ O [video](https://www.youtube.com/watch?v=ShAq4vDmSgE) apresentou os seguintes c
 - Explicação do porquê confiança e proteção são mais importantes do que requisitos funcionais
 - As quatro principais dimensões da confiança: disponibilidade, confiabilidade, segurança, proteção
 
-Disponibilidade
-
 
 # (Giancarlo Leite Cavalcanti de Andrade)
 
