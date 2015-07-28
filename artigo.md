@@ -136,10 +136,14 @@ O [video](https://www.youtube.com/watch?v=SLxGHELbHDw) apresentou os seguintes c
 - Disponibilidade dos sistemas
 
 
-# (Ighor O. do R. Barros) 	
+# Engenharia de Software orientado a Aspectos - Capítulo 21 (Ighor O. do R. Barros) 	
  
 O [video](https://www.youtube.com/watch?v=wLJ5IKj2hu4) apresentou os seguintes conteúdos:
 
+- Porque a separação de conceitos é um bom princípio
+- Principais ideias sobre aspectos e orientação orientado a aspectos
+- Como os aspectos podem ser utilizados na engenharia de requisitos
+- Dificuldades de se testar softwares com aspectos
 
 
 # Julianne M. Cavalcanti de Moraes 
