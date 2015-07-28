@@ -2,10 +2,17 @@
 % Autor
 % 201X
 
+# Caitulo 22: Gerenciamento de Projeto (José Gleydson O. Pereira)
 
-# José Gleydson O. Pereira
+O [vídeo](https://www.youtube.com/watch?v=j__cqZZukjo) apresentou os seguintes conteúdos:
 
-## Capítulo 23: Planejamento de Projeto
+- as principais tarefas dos gerentes de projeto de softwares
+- gerência de riscos e alguns riscos que podem acontecer nos projetos de softwares
+- fatores que influenciam a motivação pessoal
+- Os principais problemas que influenciam no trabalho em equipe. 
+
+
+# Capítulo 23: Planejamento de Projeto (José Gleydson O. Pereira)
 
 O [vídeo](https://youtu.be/ZTy8iRLH7bE) apresentou os seguintes conteúdos:
 
@@ -22,14 +29,6 @@ de desenvolvimento.
 * como o modelo COCOMO II é utilizado no algorítmo de estimativa de custo.
 
 
-## Caitulo 22: Gerenciamento de Projeto:
-
-O [vídeo](https://www.youtube.com/watch?v=j__cqZZukjo) apresentou os seguintes conteúdos:
-
-- as principais tarefas dos gerentes de projeto de softwares
-- gerência de riscos e alguns riscos que podem acontecer nos projetos de softwares
-- fatores que influenciam a motivação pessoal
-- Os principais problemas que influenciam no trabalho em equipe. 
 
 # Eduardo Santana
 
@@ -40,12 +39,18 @@ Videos:
 
 # Alan Bonifacio de Pontes
 
-Vídeos:
+# Capítulo 8 - Testes de Software (Alan Bonifacio de Pontes)
 
-- https://www.dropbox.com/s/5nidqg3tfq6hxl2/sommerville_cap8.avi?dl=0	
+O [vídeo](https://www.dropbox.com/s/5nidqg3tfq6hxl2/sommerville_cap8.avi?dl=0) apresentou os seguintes conteúdos:
 
+- Os tipos de testes durante o desenvolvimento
+- Os testes de aceitação dos clientes
+- Técnicas para escolha dos cenários de teste que melhor possibilitem a descoberta de falhas
+- Como as técnicas de desenvolvimento baseado em testes funcionam
+- As técnicas de testes
+- Como realizar testes com os usuários
 
-## Capítulo 9
+# Capítulo 9 - Evolução do Software (Alan Bonifacio de Pontes)
 
 O [vídeo](https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0) apresentou os seguintes conteúdos:
 
