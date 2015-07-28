@@ -92,7 +92,7 @@ O [vídeo](https://www.youtube.com/watch?v=aoPAr7lIksM) apresentou os seguintes 
 
 # Engenharia de requisitos - capítulo 4 (Yonatha Almeida)
 
-O [https://www.youtube.com/watch?v=iW_EPZDgiyk](https://www.youtube.com/watch?v=aoPAr7lIksM) apresentou os seguintes conteúdos:
+O [video](https://www.youtube.com/watch?v=iW_EPZDgiyk) apresentou os seguintes conteúdos:
 
 - Os conceitos de usuário e requisitos de sistema
 - Porque os requisitos devem ser escritos de formas diferentes
@@ -102,9 +102,22 @@ O [https://www.youtube.com/watch?v=iW_EPZDgiyk](https://www.youtube.com/watch?v=
 - Análise e validação dos requisitos
 - A importância do gerenciamento de requisitos
 
-# Glaucio Rocha
-- https://www.youtube.com/watch?v=FtsLPGH5Jw8	
-- https://www.youtube.com/watch?v=cOgEpoJP1c4
+# Processos de Softwares - Capítulo 2 (Glaucio Rocha)
+
+O [video](https://www.youtube.com/watch?v=FtsLPGH5Jw8) apresentou os seguintes conteúdos:
+
+- O conceito de processo de software
+- O conceito de modelos de processo de software
+- Três modelos de processo de softwares: cascata, incremental, orientado a reuso
+- Fases dos processos de software: engenharia de requisitos, desenvolvimento do software, teste e evolução
+- A importância de fases para implementação de mudanças nos softwares
+- Introdução do Processo Unificado (RUP)
+
+# (Glaucio Rocha) 	
+ 
+O [video](https://www.youtube.com/watch?v=cOgEpoJP1c4) apresentou os seguintes conteúdos:
+
+
 
 # Ighor O. do R. Barros
 - https://www.youtube.com/watch?v=SLxGHELbHDw	
