@@ -1,6 +1,6 @@
 % Engenharia de Software: resumo dos pontos chaves dos vídeos apresentados
-% Autor
-% 201X
+% Eduardo de Santana Medeiros Alexandre
+% 2015.1
 
 # Gerenciamento de Projeto - Caitulo 22 (José Gleydson O. Pereira)
 
@@ -159,7 +159,12 @@ O [video](https://www.dropbox.com/s/smuy1g0qrlrcifh/Apresenta%C3%A7%C3%A3o%20Cap
 
 O [video](https://www.dropbox.com/s/znwohxm1n50nd18/Apresenta%C3%A7%C3%A3o%20Cap%C3%ADtulo%207%20-%20Projeto%20e%20Implementa%C3%A7%C3%A3o%20de%20Software.mp4?dl=0) apresentou os seguintes conteúdos:
 
-
+- O processo de design orientado a objetos
+- Principais modelos que podem ser utilizados na documentação de projetos orientados a objetos (uml)
+- Padrões de design em orientação a objetos
+- Como os padrões são úteis e utilizados
+- Resuso de Software
+- Desenvolvimento de softwares livres
 
 
 # Giancarlo Leite Cavalcanti de Andrade
