@@ -11,7 +11,6 @@ O [vídeo](https://www.youtube.com/watch?v=j__cqZZukjo) apresentou os seguintes 
 - fatores que influenciam a motivação pessoal
 - Os principais problemas que influenciam no trabalho em equipe. 
 
-
 # Capítulo 23: Planejamento de Projeto (José Gleydson O. Pereira)
 
 O [vídeo](https://youtu.be/ZTy8iRLH7bE) apresentou os seguintes conteúdos:
@@ -60,11 +59,29 @@ O [vídeo](https://www.dropbox.com/s/ynr48kbvcp5r5hv/sommerville_cap9.avi?dl=0) 
 - Os tipos de manutenção do software
 - Os fatores que influenciam nos custos de manutenção
 
-# Raphael Bezerra Xavier
-- https://www.youtube.com/watch?v=I8RX80VhvE8
+# Capítulo 16 - Reuso de Softwares (Raphael Bezerra Xavier)
+
+O [vídeo](https://www.youtube.com/watch?v=I8RX80VhvE8) apresentou os seguintes conteúdos:
+
+- Benefícios e problemas do reuso de software quando desenvolvendo novos sistemas
+- O que pode ser aproveitado: funções, classes, ideias, componentes, sistemas, etc
+- Padrões de projeto
+- Frameworks
+- Reuso de sistema de aplicações
+- Resudo de Componentes COTS
+- Linhas de Produto de software
+- Como produzir sistemas através de composição de sistemas
+
+# Capítulo 18 - Software Distribuído (Hálamo G. R. Andrade)
+
+O [vídeo](https://www.youtube.com/watch?v=5W2OpUcVJOc) apresentou os seguintes conteúdos:
+
+- Principais problemas para projetar e implementar sistemas distribuídos
+- Como funciona a arquitetura cliente-servidor
+- Tipos de padrões de arquitetura para sistemas distribuíos
+- Como prover softwares como serviços
 
 # Hálamo G. R. Andrade
-- https://www.youtube.com/watch?v=5W2OpUcVJOc	
 - https://www.youtube.com/watch?v=aoPAr7lIksM
 
 # Yonatha Almeida
