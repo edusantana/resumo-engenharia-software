@@ -176,7 +176,6 @@ O [video](https://www.youtube.com/watch?v=ShAq4vDmSgE) apresentou os seguintes c
 
 Disponibilidade
 
-:  Explicação da disponibilidade
 
 # (Giancarlo Leite Cavalcanti de Andrade)
 
